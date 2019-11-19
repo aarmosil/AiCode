@@ -1,0 +1,76 @@
+Mario; Super Mario
+Luigi; Super Mario
+Princess Peach; Super Mario
+Princess Daisy; Super Mario
+Bowser; Super Mario
+Dr. Mario; Super Mario
+Rosalina; Super Mario
+Bowser Jr.; Super Mario
+Piranha Plant; Super Mario
+Donkey Kong; Donkey Kong
+Diddy Kong; Donkey Kong
+King K. Rool; Donkey Kong
+Link; Legend of Zelda
+Sheik; Legend of Zelda
+Princess Zelda; Legend of Zelda
+Young Link; Legend of Zelda
+Ganondorf; Legend of Zelda
+Toon Link; Legend of Zelda
+Samus; Metroid
+Dark Samus; Metroid
+Zero Suit Samus; Metroid
+Ridley; Metroid
+Yoshi; Yoshi
+Kirby; Kirby
+Meta Knight; Kirby
+King Dedede; Kirby
+Fox; StarFox
+Falco; StarFox
+Wolf; StarFox
+Pikachu; Pokemon
+Jigglypuff; Pokemon
+Pichu; Pokemon
+Mewtwo; Pokemon
+Pokemon Trainer; Pokemon
+Lucario; Pokemon
+Greninja; Pokemon
+Incineroar; Pokemon
+Ness; Earthbound
+Lucas; Earthbound
+Captain Falcon; F-Zero
+Ice Climbers; Ice Climber
+Marth; Fire Emblem
+Lucina; Fire Emblem
+Roy; Fire Emblem
+Chrom; Fire Emblem
+Robin; Fire Emblem
+Corrin; Fire Emblem
+Mr. Game & Watch; Game & Watch
+Pit; Kid Icarus
+Dark Pit; Kid Icarus
+Palutena; Kid Icarus
+Wario; Wario Ware
+Snake; Metal Gear Solid
+Sonic; Sonic the Hedgehog
+Olimar; Pikmin
+R.O.B.; R.O.B.
+Villager; Animal Crossing
+Isabelle; Animal Crossing
+Mega Man; Mega Man
+Wii Fit Trainer; Wii Fit
+Little Mac; Punch-Out!!
+Mii Fighter; Mii
+Pac-Man; Pac-Man
+Shulk; Xenoblade Chronicles
+Duck Hunt; Duck Hunt
+Ryu; Street Fighter
+Ken; Street Fighter
+Cloud; Final Fantasy VII
+Bayonetta; Bayonetta
+Inkling; Splatoon
+Simon; Castlevania
+Richter; Castlevania
+Joker; Persona 5
+Hero; Dragon Quest XI
+Banjo-Kazooie; Banjo-Kazooie
+Terry; Fatal Fury
